@@ -8,7 +8,7 @@ import (
 	"strconv"
 )
 
-func main() {
+func part1() {
 
 	ones := []int{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
 	zeroes := []int{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
